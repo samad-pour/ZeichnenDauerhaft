@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZeichnenDauerhaft", "ZeichnenDauerhaft\ZeichnenDauerhaft.csproj", "{9DD6AEC9-D9CF-4041-8F6E-116C295D830B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DD6AEC9-D9CF-4041-8F6E-116C295D830B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DD6AEC9-D9CF-4041-8F6E-116C295D830B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DD6AEC9-D9CF-4041-8F6E-116C295D830B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DD6AEC9-D9CF-4041-8F6E-116C295D830B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CCCDF37F-1EBB-422B-916E-72C99808A6D0}
+	EndGlobalSection
+EndGlobal
